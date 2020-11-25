@@ -3,17 +3,11 @@
 ## OSI Layers: bottom-up w/ examples
 
 ### L1 Ethernet physical layer / DSL / Bluetooth / ...
-
 ### L2 / Ethernet
-
-### L2.5 / ARP
-
 ### L3 / IPv4 / IPv6
-
+### L2.5 / ARP
 ### L4 TCP & UDP
-
 ### L5 & L6 TLS
-
 ### L7 HTTP / DNS / POP / SMTP / SSH / ...
 
 ## Routing
@@ -25,15 +19,15 @@
   - reserved address spaces
   - addressing link local
 - Fragmentation
-- BGP
+
+## BGP
 
 ## Encapsulation & Encryption
-
 - IPIP
 - IP-UDP
-
-## Tunnels
-
+- IPSEC
+- OpenVPN
+- ...
 ## Networking Tools in Linux
 
 - tcpdump / wireshark
@@ -51,3 +45,6 @@
 ### 1. Interview Question
 
 > What happens if you type google.com into your browser bar?
+
+### 2. Lab Setup
+-> 
